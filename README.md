@@ -20,7 +20,6 @@
   - [Code reviews](#code-reviews)
   - [Communication](#communication)
   - [Conflict resolution](#conflict-resolution)
-  - [CTO (Chief Technical Officer)](#cto-chief-technical-officer)
   - [Data organization](#data-organization)
   - [Culture](#culture)
   - [Decisions](#decisions)
