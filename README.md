@@ -13,7 +13,6 @@
   - [Tools](#tools)
 - [Engineering Management Topics](#engineering-management-topics)
   - [1-1](#1-1)
-  - [Antipatterns](#antipatterns)
   - [Biases](#biases)
   - [Brainstorming](#brainstorming)
   - [Career growth and job ladder](#career-growth-and-job-ladder)
