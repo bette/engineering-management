@@ -266,10 +266,6 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
   - What are we currently not doing as a company that you feel we should do?
   - Do you have the opportunity to do what you do best every day?
 
-### Antipatterns
-
-- [Seven Deadly Diseases of Management](https://deming.org/explore/seven-deadly-diseases), Dr. Deming. Great video as well. I don't necessarily agree with everything but Deming is still one of the great management thinker.
-
 ### Biases
 
 - 📖 [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) by Daniel Kahneman and published in 2012 is already a classic. It offers a whirling tour into our biases and the limits of human judgment. Truly amazing read.
