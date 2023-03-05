@@ -391,17 +391,6 @@ See my [professional-programming section about code reviews](https://github.com/
 
 - 🎞 [Disagree and commit](https://www.youtube.com/watch?v=oZw2cg8AXDw)
 
-### CTO (Chief Technical Officer)
-
-- [The 7 roles of a CTO](https://oded.substack.com/p/the-7-roles-of-a-cto)
-  - Executive
-  - Representative
-  - People manager (sometimes)
-  - Hands on developer (sometimes)
-  - Owns security and IT
-  - Salesperson
-  - Does whatever it takes
-
 ### Data organization
 
 - [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
